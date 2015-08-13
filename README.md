@@ -1,5 +1,26 @@
-# Resources
+# Web Resources
 List of web libraries and sites suitable for designers and developers.
+
+If any link is broken, or not any more supported by theirs developers, report them on [issues](https://github.com/mohsen-shafiee/Resources/issues) for delete them.
+
+And if you knows any library or sites suitable for web designers and developers that not listed below please report them on [issues](https://github.com/mohsen-shafiee/Resources/issues) to add them.
+
+## This month resources
+
+Every month we have introduce some new sites and libraries. Next time is: **September 1**
+
+- [Paperclip.js](http://paperclipjs.com/), A reactive template engine for modern web applications
+- [Diapo](http://www.pixedelic.com/plugins/diapo/), Diapo slideshow
+- [Lazy Load XT](https://github.com/ressio/lazy-load-xt), Mobile-oriented, fast and extensible jQuery plugin for lazy loading of images/videos
+- [vivus](http://maxwellito.github.io/vivus/), bringing your SVGs to life
+- [Midnight.js](http://aerolab.github.io/midnight.js/), lets you switch fixed headers on the fly
+- [FakeLoader.js](http://joaopereirawd.github.io/fakeLoader.js/), create an animated spinner with a fullscreen loading mask to simulate the page preloading effect
+- [Labelauty](http://fntneves.github.io/jquery-labelauty/), gives beauty to checkboxes and
+radio buttons
+- [jQuery Timer](http://jquerytimer.com/), Pretty timer plugin
+Start, Pause, Resume and Remove a timer inside any HTML element
+- [Dropzone](http://www.dropzonejs.com/), Provides drag’n’drop file uploads with image previews
+- [PersianWebToolkit](http://babakhani.github.io/PersianWebToolkit/), Some ui tools compatible with Persian layout and Jalali calendar
 
 ## Groups
 - [Design](#design)
